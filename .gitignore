@@ -1,0 +1,38 @@
+# Python bytecode / cache
+__pycache__/
+*.py[cod]
+
+# Build / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Virtual environments
+env_bike/
+venv/
+.venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE / editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Project artifacts
+models/*.joblib
+models/*.pkl
+
+# Data (keep folder structure only)
+data/**
+!data/
+!data/**/
+!data/**/.gitkeep
