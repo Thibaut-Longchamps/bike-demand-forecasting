@@ -1,5 +1,7 @@
 ## Getting Started (Run the Project Locally) 
 
+```git clone https://github.com/Thibaut-Longchamps/bike-demand-forecasting.git```
+
 Toutes les commandes ci-dessous doivent être éxécutées depuis la racine du projet :
 
 ```cd /path/to/bike-demand-forecasting```
@@ -59,4 +61,5 @@ Le modèle avec feature engineering surpasse nettement le baseline en CV et en t
 - CPU: AMD Ryzen 5 5500U (6 cores, 12 threads), 2.10 GHz
 - RAM: 8 GB
 - OS: Ubuntu 22.04.5 LTS (Jammy)
+
 - Platform: WSL2 (Ubuntu on Windows)
